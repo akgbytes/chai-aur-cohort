@@ -1,4 +1,4 @@
-# Problem Statement 9
+# Problem Statement 10
 
 You're on a camping trip with your friends, and you all want to set up a starry mountain as a symbol of your adventure. To make things more fun, you decide to use stars to draw an inverted mountain pattern. The challenge: print it so everyone can admire the majestic mountain shape! ⛰️⭐
 
@@ -14,7 +14,7 @@ Create a function invertedMountain(n) that prints an inverted mountain made of s
 
 #### 🎯 Expected Output:
 
-```
+```json
 ****
 ***
 **

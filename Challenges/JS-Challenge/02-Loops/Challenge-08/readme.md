@@ -9,11 +9,11 @@ Create a function that takes an array of item prices and returns the total cost.
 #### ✅ Input:
 
 ```json
-{ "num": 5 }
+[1.5, 2.3, 3.7]
 ```
 
 #### 🎯 Expected Output:
 
 ```json
-"Positive"
+7.5
 ```

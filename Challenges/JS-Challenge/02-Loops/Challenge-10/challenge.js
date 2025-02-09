@@ -1,3 +1,3 @@
 function invertedMountain(n) {
-  //return pattern
+  // return pattern
 }
