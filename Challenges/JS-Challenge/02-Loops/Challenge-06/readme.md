@@ -9,7 +9,7 @@ Create a function that takes an array of days (e.g., ["Monday", "Tuesday", "Frid
 #### ✅ Input:
 
 ```json
-| ["Monday", "Tuesday", "Friday"]
+["Monday", "Tuesday", "Friday"]
 ```
 
 #### 🎯 Expected Output:

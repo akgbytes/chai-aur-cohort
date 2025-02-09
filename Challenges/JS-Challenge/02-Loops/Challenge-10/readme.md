@@ -14,7 +14,7 @@ Create a function invertedMountain(n) that prints an inverted mountain made of s
 
 #### 🎯 Expected Output:
 
-```json
+```
 ****
 ***
 **

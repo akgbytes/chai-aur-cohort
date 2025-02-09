@@ -19,7 +19,7 @@ Create a function `shinyDiamondRug(n)` that prints a shiny diamond shape made of
 
 #### 🎯 Expected Output:
 
-```json
+```
    *
   ***
  *****
